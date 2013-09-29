@@ -10,7 +10,7 @@ https://github.com/typesafehub/config/blob/master/HOCON.md
 **Completed Items** marked as `COMPLETE`
 
 Items                                  | Status
--------------------------------------- | -----
+-------------------------------------- | :-----:
 Comments                               | `COMPLETE`
 Omit root braces                       | `COMPLETE`
 Key-value sparator                     | `COMPLETE`
@@ -21,7 +21,7 @@ Unquoted strings                       | `COMPLETE`
 Multi-line strings                     | `x`
 String value concatenation             | `x`
 Array and object concatentation        | `x`
-Arrays without commas                  | `x`
+Arrays without commas                  | `COMPLETE`
 Path expressions                       | `x`
 Paths as keys                          | `x`
 Substitutions                          | `x`
@@ -35,7 +35,7 @@ Include semantics: file formats and extensions     | `x`
 Include semantics: locating resources              | `x`
 
 API Recommendations                                        | Status
----------------------------------------------------------- | -----
+---------------------------------------------------------- | :----:
 Conversion of numerically-index objects to arrays          | `x`
 Conversion of numerically-index objects to arrays          | `x`
 
