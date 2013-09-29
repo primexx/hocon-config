@@ -4,7 +4,7 @@
 
 HOCONText
     : HOCONDocument EOF
-        {console.log($1); return $1;}
+        {return $1;}
     ;
 
 HOCONDocument
