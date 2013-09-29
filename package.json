@@ -1,0 +1,34 @@
+{
+  "author": "Travis Walker",
+  "name": "hocon-parser",
+  "description": "Parse HOCON",
+  "keywords": [
+    "json",
+    "hocon",
+    "parser",
+    "validation"
+  ],
+  "version": "0.1.0",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/traviswalker1/hocon-parser.git"
+  },
+  "main": "lib/hocon.js",
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "dependencies": {
+    "requirejs": "~2.1.8",
+    "glob": "~3.2.6"
+  },
+  "devDependencies": {
+    "test": "*",
+    "jison": "*",
+    "grunt-exec": "~0.4.2"
+  },
+  "scripts": {
+    "test": "node test/all-tests.js"
+  },
+  "optionalDependencies": {}
+}

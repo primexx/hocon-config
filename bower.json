@@ -1,0 +1,16 @@
+{
+  "name": "hocon-parser",
+  "version": "0.1.0",
+  "main": "lib/hocon.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "scripts",
+    "src",
+    "test",
+    "web",
+    "package.json",
+    "Makefile",
+    "README.md"
+  ]
+}
