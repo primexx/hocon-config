@@ -1,4 +1,4 @@
-Hocon Parser
+Hocon Config for NodeJS
 ============
 
 Working version 0.1.0
